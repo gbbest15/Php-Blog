@@ -1,2 +1,3 @@
 # Php-Blog
-This is a blog code written in Php and Boostrap
+This is a blog code written in Php  PDO and Boostrap and very easy to understand... 
+the Blog is created with full Functionality. 
